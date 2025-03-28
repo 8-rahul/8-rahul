@@ -12,6 +12,8 @@
 
 🔹 [AI-Powered Cybersecurity Threat Detection](https://github.com/8-rahul/cybersecurity-project.git)
 
+🔹 [AI-Powered Energy Consumption Forecasting](https://github.com/8-rahul/AI-Powered-Energy-Consumption-Forecasting-Project)
+
 
 ## 🌍 Connect With Me
 
