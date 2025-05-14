@@ -1,24 +1,31 @@
 ## Hi there! 👋 I'm Rahul Bhoyar
 
-🦾 Mechanical Engineering Student | 🚀 AI Enthusiast |
+🦾 Final Year Mechanical Engineering Student | 🚀 Tech Enthusiast | 🧠 Transferable Skills Practitioner
+
+---
 
 ## 🔥 About Me
-- 🎓 Currently studying and exploring AI domain.
-- ⚡ Continuously Learning & Building Real-World Projects.
-- 💡 Open to collaboration & learning opportunities.
+- 🎓 I'm a final year Mechanical Engineering student and actively exploring the world of Tech.
+- 💡 Passionate about developing strong technical and transferable skills to build practical, real-world solutions.
+- 🤝 Always open to collaboration, learning, and growth opportunities.
 
+---
 
 ## 📌 Featured Projects
 
-🔹 [AI-Powered Cybersecurity Threat Detection](https://github.com/8-rahul/cybersecurity-project.git)
+🔹 **[Preventive Maintenance System](https://github.com/8-rahul/Preventive-Maintenance-System)**  
+A system that monitors machine health using simulated sensor data to detect faults early.
 
-🔹 [AI-Powered Energy Consumption Forecasting](https://github.com/8-rahul/AI-Powered-Energy-Consumption-Forecasting-Project)
+🔹 **[AI-Powered Energy Consumption Forecasting](https://github.com/8-rahul/AI-Powered-Energy-Consumption-Forecasting)**  
+A model that forecasts future energy consumption trends using historical data and machine learning.
 
+---
 
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulbhoyar8)  
-📩 Email: rlbhoyar@gmail.com
+📩 **Email**: rlbhoyar@gmail.com
+
 ---
 
-⭐ **Feel free to check out my projects and connect!** 🚀
+⭐ **Thanks for visiting my profile! Feel free to explore my projects and connect!** 🚀
