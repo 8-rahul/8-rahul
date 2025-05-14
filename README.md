@@ -19,6 +19,9 @@ A system that monitors machine health using simulated sensor data to detect faul
 🔹 **[AI-Powered Energy Consumption Forecasting](https://github.com/8-rahul/AI-Powered-Energy-Consumption-Forecasting)**  
 A model that forecasts future energy consumption trends using historical data and machine learning.
 
+🔹 **[AI-Powered Cybersecurity Threat Detection](https://github.com/8-rahul/AI-Powered-Cybersecurity-Threat-Detection)**    
+An AI-powered cybersecurity threat detection system that analyzes key network behaviors—failed login attempts, packet sizes, and request frequency—to identify potential threats.
+
 ---
 
 ## 🌍 Connect With Me
