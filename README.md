@@ -16,6 +16,9 @@
 🔹 **[Preventive Maintenance System](https://github.com/8-rahul/Preventive-Maintenance-System)**  
 A system that monitors machine health using simulated sensor data to detect faults early.
 
+🔹 **[EV Battery Health Prediction System](https://github.com/8-rahul/EV-Battery-Health-Prediction-System)**  
+Streamlit-based web application that predicts the State of Health (SoH) of EV batteries using machine learning.
+
 🔹 **[AI-Powered Energy Consumption Forecasting](https://github.com/8-rahul/AI-Powered-Energy-Consumption-Forecasting)**  
 A model that forecasts future energy consumption trends using historical data and machine learning.
 
