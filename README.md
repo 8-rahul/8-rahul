@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Rahul Bhoyar
 
-🦾 Final Year Mechanical Engineering Student | 🚀 Tech Enthusiast | 🧠 Transferable Skills Practitioner
+🦾 Mechanical Engineer | 🚀 Tech Enthusiast | 🧠 Transferable Skills Practitioner
 
 ---
 
