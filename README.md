@@ -29,7 +29,7 @@ An AI-powered cybersecurity threat detection system that analyzes key network be
 
 ## 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulbhoyar8)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulbhoyar08)  
 📩 **Email**: rlbhoyar@gmail.com
 
 ---
